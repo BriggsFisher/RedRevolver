@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OOP Lesson3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OOP_Lesson3_jar</output-path>
+    <root id="archive" name="OOP Lesson3.jar">
+      <element id="module-output" name="OOP Lesson3" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-backend-lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-setup.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-backend-android.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gdx-box2d-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-backend-jglfw-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gdx-box2d.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-backend-lwjgl-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-backend-jglfw.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/libgdx-1.6.1 (1)/gdx-backend-headless.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
